@@ -1,0 +1,12 @@
+{
+  "name": "example-openshift-app",
+  "version": "1.0.0",
+  "description": "Example Node.js app for OpenShift",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
